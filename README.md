@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mystryvedi aka Gyapti Trivedi 
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development and Game Development
 - 🌱 I would soon be starting my college journey 
 - 📫 How to reach me ...
 
