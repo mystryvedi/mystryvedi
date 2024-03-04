@@ -25,6 +25,14 @@ Hello! I’m Gyapti, currently a sophomore at IGDTUW, diving deep into the fasci
 - Inspired by the dynamic landscape of technology.
 - At the nexus of innovation and creativity, eager to contribute to projects that challenge the status quo and redefine what's possible.
 
+<!-- Streak  -->
+<h2>🏆 Github Stats</h2>
+
+<p align="center">
+    <img alt="Gyapti's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mystryvedi&theme=algolia" alt="Streak" />   
+    <img alt="Gyapti's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mystryvedi&show_icons=true&count_private=true&theme=algolia" />
+</p>
+
 ## 🌐 Let's Connect and Collaborate
 - If you're on the lookout for a dynamic, versatile individual who melds a passion for technology with artistic flair, let's connect.
 - I am keen to collaborate on projects where technology meets art, exploring new frontiers together.
