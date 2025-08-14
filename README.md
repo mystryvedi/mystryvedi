@@ -1,7 +1,7 @@
 # 👋 Welcome to My World: Gyapti Trivedi @mystryvedi
 
 ## 🎓 Pursuing Innovation in Technology
-Hello! I’m Gyapti, currently a sophomore at IGDTUW, diving deep into the fascinating world of Electrical and Communication Engineering with a specialization in Artificial Intelligence. My academic journey is more than just grades; it's about exploring the limitless possibilities in technology.
+Hello! I’m Gyapti, currently a senior at IGDTUW, diving deep into the fascinating world of Electrical and Communication Engineering with a specialization in Artificial Intelligence. My academic journey is more than just grades; it's about exploring the limitless possibilities in technology.
 
 ## 🌟 Professional Milestones
 ### Web Development Intern, TimeChain Labs
