@@ -25,7 +25,7 @@ Hello! I’m Gyapti, currently a senior at IGDTUW, diving deep into the fascinat
 - Inspired by the dynamic landscape of technology.
 - At the nexus of innovation and creativity, eager to contribute to projects that challenge the status quo and redefine what's possible.
 
-<!-- Streak  -->
+<!-- Streak  
 <h2>🏆 Github Stats</h2>
 
 <p align="center">
@@ -36,6 +36,8 @@ Hello! I’m Gyapti, currently a senior at IGDTUW, diving deep into the fascinat
 ## 🌐 Let's Connect and Collaborate
 - If you're on the lookout for a dynamic, versatile individual who melds a passion for technology with artistic flair, let's connect.
 - I am keen to collaborate on projects where technology meets art, exploring new frontiers together.
+
+-->
 
 ### Connect with Me
 - **LinkedIn:** [Gyapti Trivedi](www.linkedin.com/in/gyapti-trivedi)
